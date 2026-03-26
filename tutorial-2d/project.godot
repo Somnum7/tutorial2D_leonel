@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="tutorial 2d"
-run/main_scene="uid://bb7ftrmcyl6db"
+run/main_scene="uid://dfo7t1x0qfsl5"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
